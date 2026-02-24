@@ -11,12 +11,14 @@
             "id": "56dd5c169bd6d61a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2loras_test__00207_.png"
+                "file": "テスト用ファイル20260224.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "2loras_test__00207_"
+              "icon": "lucide-file",
+              "title": "テスト用ファイル20260224"
             }
           }
         ]
@@ -181,13 +183,13 @@
   },
   "active": "56dd5c169bd6d61a",
   "lastOpenFiles": [
+    "2loras_test__00207_.png",
     "2loras_test__00226_.png",
     "テスト用ファイル20260224.md",
     "💪筋トレ用URL.md",
     "Gemini_Generated_Image_ghudtrghudtrghud.png",
     "📗読みたい本ストック.md",
     "0c0d80e888a7cdd63c445e881b80d96d.jpg",
-    "2loras_test__00207_.png",
     "112956914_p0.jpg"
   ]
 }
