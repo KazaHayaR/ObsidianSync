@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "テスト用ファイル20260224.md",
+                "file": "📗読みたい本ストック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "テスト用ファイル20260224"
+              "title": "📗読みたい本ストック"
             }
           }
         ]
@@ -178,18 +178,23 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "56dd5c169bd6d61a",
   "lastOpenFiles": [
-    "2loras_test__00207_.png",
-    "2loras_test__00226_.png",
-    "テスト用ファイル20260224.md",
     "💪筋トレ用URL.md",
-    "Gemini_Generated_Image_ghudtrghudtrghud.png",
+    "創作iDea/大罪メモ.md",
     "📗読みたい本ストック.md",
-    "0c0d80e888a7cdd63c445e881b80d96d.jpg",
-    "112956914_p0.jpg"
+    "無題のファイル.base",
+    "テスト用ファイル20260224.md",
+    "TRPG/0c0d80e888a7cdd63c445e881b80d96d.jpg",
+    "TRPG/Gemini_Generated_Image_ghudtrghudtrghud.png",
+    "TRPG/112956914_p0.jpg",
+    "TRPG/2loras_test__00207_.png",
+    "TRPG/2loras_test__00226_.png"
   ]
 }
