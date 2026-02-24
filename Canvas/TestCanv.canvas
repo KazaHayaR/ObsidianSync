@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"03205f79f30f41f9","type":"file","file":"TRPG/TPPGアイディア/💡Aiを使ってKPを育てるアプリ.md","x":-1320,"y":-690,"width":400,"height":400},
+		{"id":"2a529b0119ecc038","type":"file","file":"Canvas/青春！.wav","x":221,"y":-4,"width":400,"height":42},
+		{"id":"407d4af35a00e626","type":"file","file":"Canvas/image (32) (0;00;01;27).png","x":-1320,"y":-204,"width":286,"height":400},
+		{"id":"012ba888a2cc0504","type":"text","text":"これ","x":-880,"y":-690,"width":240,"height":160,"color":"2"}
+	],
+	"edges":[]
+}

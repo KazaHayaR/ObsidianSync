@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "0d0e4e555f18e857",
+    "type": "split",
+    "children": [
+      {
+        "id": "92be6bdeadd23279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208367ece8991c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日常の最適化/Daily-日常-note 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily-日常-note 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "516845f041786853",
+    "type": "split",
+    "children": [
+      {
+        "id": "90d52a0fefa0f31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29df2c63fd8c7503",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "6c4c5eefdfb749b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3a9021735679ceb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58ad3f8af2081726",
+    "type": "split",
+    "children": [
+      {
+        "id": "e950956595adc1ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab80b6c7a9cd5a30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/大罪2/🍰マリー【イラスト】.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "🍰マリー【イラスト】へのバックリンク"
+            }
+          },
+          {
+            "id": "28d8b397799a646e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "シナリオ/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/第一章プロット.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一章プロットからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "7aabc3b1789ea747",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "fd7288a07ab29426",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日常の最適化/Daily-日常-note 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Daily-日常-note 1のアウトライン"
+            }
+          },
+          {
+            "id": "78ea48aded12c74c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "bases:Create new base": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-composer:Open smart composer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "markwhen:Create new Markwhen file": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "208367ece8991c81",
+  "lastOpenFiles": [
+    "日常の最適化/Daily-日常-note.md",
+    "日常の最適化/Daily-日常-note 1.md",
+    "DailyNote/2025/12/2025-12-17.md",
+    "WorkShot/CoCatフロー.canvas",
+    "WorkShot/KADカンバン.md",
+    "Projects/大罪2/大罪イラストキャンバス.canvas",
+    "Projects/大罪2/スクリーンショット 2025-12-10 224245.png",
+    "転籍に向けて/一との接し方をChatGPTに教えてもらう.md",
+    "創作iDea/大罪メモ.md",
+    "創作iDea/ユリイカ！！.md",
+    "書庫/霧の高みの小さな家.md",
+    "書庫/蕃神.md",
+    "書庫/水着アビゲイル宝具演出ドリームランド対応表.md",
+    "書庫/プライミングについて.md",
+    "書庫/なぜ私たちは燃え尽きてしまうのか.md",
+    "書庫/セレファイス.md",
+    "その他/最強のピザを作ろう計画.md",
+    "その他/企画に対して行動経済学のバイアス、ナッジの要素をつける.md",
+    "その他/プロファイリングをするぞ.md",
+    "その他/ChatGPTの使用効率化メモ.md",
+    "その他/💡ボイロ動画自動化Picat.md",
+    "その他/💡エンタメ業界の決算報告書を俯瞰するnootbooklm.md",
+    "その他/💡Aiを作って一日一章話を作る物語構築.md",
+    "アーカイブ/個室会食の予算です.md",
+    "アーカイブ/【実行中】8月のご飯計画.md",
+    "WorkShot/プロンプト.md",
+    "WorkShot/テストプレイ用の注意事項.md",
+    "WeeklyNote/2025/09/2025-09-07.md",
+    "TPPGアイディア/TRPG初心者Vを公式に読んで、TRPGの達人に解説しながらやってもらう.md",
+    "Projects/大罪2/Pasted image 20251210224303.png",
+    "Projects/大罪2/スクリーンショット 2025-12-10 224245 1.png",
+    "Projects/大罪2/character07.png",
+    "Projects/大罪2/character01.png",
+    "Projects/大罪2",
+    "Projects",
+    "Markwhen/2KPレスガントチャート.mw.mw",
+    "Markwhen/Markwhen 11-21-2025 13.39.17.mw",
+    "日常の最適化",
+    "Canvas/青春！.wav",
+    "無題のファイル.base",
+    "Canvas/TestCanv.canvas"
+  ]
+}

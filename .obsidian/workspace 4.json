@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "ef36a31ab4392682",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea36498d128d2050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a72bd2ab76d185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "アイディア/💡Aiを使ってKPを育てるアプリ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💡Aiを使ってKPを育てるアプリ"
+            }
+          },
+          {
+            "id": "2a96e7af5c36660f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "創作iDea/学園モノ/💡運動会システム.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💡運動会システム"
+            }
+          },
+          {
+            "id": "2c20803cde3e000b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "次元の壁を「コスの印」で封印する.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "次元の壁を「コスの印」で封印する"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4decc8a5a8935a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "87713ec355429713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ec1c6d1e281396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9e023618dc3d6f4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "e18186247ae74457",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "4cb14834b8ab98d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96ecf930e888637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad70af128ff879d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "創作iDea/金貨パクパク〜！/【ED】mon panache!(シラノ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【ED】mon panache!(シラノ)へのバックリンク"
+            }
+          },
+          {
+            "id": "885fb573a7e8a83f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "創作iDea/金貨パクパク〜！/【ED】mon panache!(シラノ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【ED】mon panache!(シラノ)からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "97b50d838dcbd10e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2068f1193d498e8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "創作iDea/金貨パクパク〜！/🗺️金貨パクパク.canvas",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "🗺️金貨パクパクのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "2c20803cde3e000b",
+  "lastOpenFiles": [
+    "創作iDea/学園モノ/💡運動会システム.md",
+    "次元の壁を「コスの印」で封印する.md",
+    "七伏ファンボックスやりません？.md",
+    "プライミングについて.md",
+    "アイディア/💡Aiを使ってKPを育てるアプリ.md",
+    "創作iDea/金貨パクパク〜！/💡名前は「K」.md",
+    "創作iDea/金貨パクパク〜！/🔧銀の鈴.md",
+    "創作iDea/金貨パクパク〜！/🗺️金貨パクパク.canvas",
+    "猫側の理由.md",
+    "猫の神があなたを誘導.md",
+    "我々を嘲笑う北極星を打ち倒す.md",
+    "創作iDea/金貨パクパク〜！/【ED】世界を救う猫耳のこそ泥.md",
+    "創作iDea/金貨パクパク〜！/【ED】mon panache!(シラノ).md",
+    "創作iDea/金貨パクパク〜！/🧍ハンドアウト.md",
+    "創作iDea/金貨パクパク〜！/💡運命は結果じゃなくて過程.md",
+    "創作iDea/金貨パクパク〜！/💡没入型シネマ.md",
+    "創作iDea/金貨パクパク〜！/💡アグサフェSS.md",
+    "創作iDea/金貨パクパク〜！/💡KPCとの親近感と失う苦しみ.md",
+    "創作iDea/金貨パクパク〜！/【冒頭】招待状が届く.md",
+    "創作iDea/金貨パクパク〜！/【展開案】追え！あいつもこそ泥の仲間だ！.md",
+    "創作iDea/金貨パクパク〜！/【ED】猫を拾う、空を見上げる.md",
+    "転籍に向けて/常軌を逸した仕組みを作れ.md",
+    "アイディア/Yostarの人とクトゥルフやりたいよって話つけてきたよ.md",
+    "創作iDea/金貨パクパク〜！/🐈️無もなき黒猫.md",
+    "創作iDea/金貨パクパク〜！/🐈️猫将軍.md",
+    "転籍に向けて/一との接し方をChatGPTに教えてもらう.md",
+    "アイディア/けだもののわかりにくい点.md",
+    "転籍に向けて",
+    "創作iDea/学園モノ",
+    "Canvas/TestCanv.canvas",
+    "創作iDea/金貨パクパク〜！",
+    "創作iDea",
+    "Canvas/image (32) (0;00;01;27).png",
+    "Canvas/青春！.wav",
+    "Canvas",
+    "Tempates",
+    "アイディア/無題のフォルダ",
+    "アイディア"
+  ]
+}

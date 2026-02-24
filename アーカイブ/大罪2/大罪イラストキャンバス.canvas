@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"ef48221ed6ff05cc","type":"text","text":"絵柄について\n・ぬきたし","x":-401,"y":-460,"width":250,"height":60},
+		{"id":"1f6edc8c2ba464ff","type":"text","text":"行けそうなlora","x":-401,"y":100,"width":250,"height":60},
+		{"id":"6f950ca9d1c98632","type":"file","file":"アーカイブ/大罪2/character01.png","x":-120,"y":-331,"width":262,"height":400},
+		{"id":"89b2081d33634f53","type":"file","file":"アーカイブ/大罪2/character07.png","x":-407,"y":-340,"width":262,"height":400},
+		{"id":"1b5d69acf64f07d2","type":"file","file":"アーカイブ/大罪2/スクリーンショット 2025-12-10 224245.png","x":160,"y":-331,"width":340,"height":628}
+	],
+	"edges":[]
+}

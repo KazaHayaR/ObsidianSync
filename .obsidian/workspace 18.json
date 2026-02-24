@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "ef36a31ab4392682",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea36498d128d2050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdf68be09c9a3a78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "創作iDea/ナナシの黒猫(Nameless Cat)/🐈️無もなき黒猫.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🐈️無もなき黒猫"
+            }
+          },
+          {
+            "id": "e3f99b0a620e6045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "プロファイリングデータ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "プロファイリングデータ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4decc8a5a8935a8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "87713ec355429713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ec1c6d1e281396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9e023618dc3d6f4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "e18186247ae74457",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226.5
+  },
+  "right": {
+    "id": "4cb14834b8ab98d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b96ecf930e888637",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ad70af128ff879d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "創作iDea/金貨パクパク〜！/【ED】mon panache!(シラノ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【ED】mon panache!(シラノ)へのバックリンク"
+            }
+          },
+          {
+            "id": "885fb573a7e8a83f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "創作iDea/金貨パクパク〜！/【ED】mon panache!(シラノ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【ED】mon panache!(シラノ)からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "97b50d838dcbd10e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2068f1193d498e8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "創作iDea/金貨パクパク〜！/🗺️金貨パクパク.canvas",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "🗺️金貨パクパクのアウトライン"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "cdf68be09c9a3a78",
+  "lastOpenFiles": [
+    "創作iDea/ナナシの黒猫(Nameless Cat)/猫側の理由.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/🗺️金貨パクパク.canvas",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/🧍ハンドアウト.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/ヒヨコの登場（ヌトセ・コス）.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/我々を嘲笑う北極星を打ち倒す.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/時々バーストが現れて過去を見せる.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/次元の壁を「コスの印」で封印する.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/猫の神があなたを誘導.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】世界を救う猫耳のこそ泥.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+    "プロファイリングデータ.md",
+    "その他/1ヶ月体質改善.md",
+    "その他/ボイラ動画自動化Picat.md",
+    "その他/個室会食の予算です.md",
+    "その他/七月第一週ふりかえり.md",
+    "転籍に向けて/一との接し方をChatGPTに教えてもらう.md",
+    "転籍に向けて/常軌を逸した仕組みを作れ.md",
+    "その他/1ヶ月期限の小規模日常プロジェクト.md",
+    "4____________.csv",
+    "書庫/霧の高みの小さな家.md",
+    "書庫/蕃神.md",
+    "書庫/水着アビゲイル対応表.md",
+    "書庫/企画に対して行動経済学のバイアス、ナッジの要素をつける.md",
+    "書庫/プライミングについて.md",
+    "創作iDea/学園モノ/💡運動会システム.md",
+    "創作iDea/金貨パクパク〜！/次元の壁を「コスの印」で封印する.md",
+    "創作iDea/金貨パクパク〜！/我々を嘲笑う北極星を打ち倒す.md",
+    "創作iDea/金貨パクパク〜！/🗺️金貨パクパク.canvas",
+    "転籍に向けて",
+    "創作iDea/学園モノ",
+    "Canvas/TestCanv.canvas",
+    "創作iDea/金貨パクパク〜！",
+    "創作iDea",
+    "Canvas/image (32) (0;00;01;27).png",
+    "Canvas/青春！.wav",
+    "Canvas",
+    "Tempates",
+    "アイディア/無題のフォルダ",
+    "アイディア"
+  ]
+}

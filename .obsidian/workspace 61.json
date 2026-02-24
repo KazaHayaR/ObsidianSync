@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "6b3e8f390c9e28b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c458361e9001a0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9891eb5a7a78856b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "その他/9.21(日曜日)(1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.21(日曜日)(1)"
+            }
+          },
+          {
+            "id": "486b150c5f4f7ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【ED】mon panache!(シラノ)"
+            }
+          },
+          {
+            "id": "fbd2f3bc0ae0a924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aba09e745e96544",
+    "type": "split",
+    "children": [
+      {
+        "id": "308b3af5932e0571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b75ef8216a17f86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "2c8b28eab53e147b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "2d5e3e24baf9b509",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2c6da1a74a8226d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba54122246e2b5ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91bddcb45e8f96ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【ED】mon panache!(シラノ)へのバックリンク"
+            }
+          },
+          {
+            "id": "2531d44c68a3fa3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【ED】mon panache!(シラノ)からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "58f7a4d298338a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "53331599a86ac1b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【ED】mon panache!(シラノ)のアウトライン"
+            }
+          },
+          {
+            "id": "6f60b4be467bc246",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "sheet-plus:Create excel file": false,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "fbd2f3bc0ae0a924",
+  "lastOpenFiles": [
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+    "無題のファイル 1.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】🪔高潔な夢見人へ贈る.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【回想】猫が石を投げられるシーン.md",
+    "TPPGアイディア/On the job TRPG略してOJT育成用シナリオ.md",
+    "無題のファイル.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/猫と戯れるシーンを入れる.md",
+    "その他/10ー4献立.md",
+    "転籍に向けて/一との接し方をChatGPTに教えてもらう.md",
+    "その他/9.21(日曜日)(1).md",
+    "その他/💡エンタメ業界の決算報告書を俯瞰するnootbooklm.md",
+    "その他/💡Aiを作って一日一章話を作る物語構築.md",
+    "Tempates/WeeklyTemplate.md",
+    "Tempates/DailyTemplate.md",
+    "創作iDea/学園モノ/学園モノのHO.md",
+    "創作iDea/学園モノ/学園アホストーリー.md",
+    "その他/ウインドウ管理のオートメーション方針.md",
+    "その他/企画に対して行動経済学のバイアス、ナッジの要素をつける.md",
+    "転籍に向けて/常軌を逸した仕組みを作れ.md",
+    "DailyNote/2025/10/2025-10-17.md",
+    "DailyNote/2025/10/2025-10-16.md"
+  ]
+}

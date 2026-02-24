@@ -1,0 +1,4 @@
+---
+week_start: <% moment().subtract(1, "week").endOf("isoWeek").format("YYYY-MM-DD") %>
+week_end: <% moment().subtract(1, "week").endOf("isoWeek").format("YYYY-MM-DD") %>
+---

@@ -1,0 +1,64 @@
+{
+  "id": "b561a8a8-f372-429a-9e32-d408c0b7cf9a",
+  "title": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n次に投げる箇条書きの文章ををビジネス文章としてしっかり整形してください。文章はslack上のチャット文章の想定です- ニナハチさんからもらったスチルの調整をしたい- 現状のEDの塩梅として- 机には美月が使用していたピックが置かれている- 現状の芽衣の方にゆかりが肩に手を置くようなイメージで変更\n\n"
+        }
+      ],
+      "id": "1379a688-5a7a-45a5-b095-c00914c68ce3",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "DailyNote/2025/10/2025-10-31.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "承知いたしました。以下の通り整形します。\n\n<smtcmp_block language=\"markdown\">\n皆様\n\nお疲れ様です。\n現在のED（エンディング）について、およびニナハチ様からご提供いただいたスチルの調整に関して、以下の変更を提案いたします。\n\n*   ニナハチ様からのスチルについて、調整をお願いします。\n*   現在のEDについて、以下の点を変更希望です。\n    *   机の上に美月が使用していたピックを配置する。\n    *   芽衣に対し、ゆかりが肩に手を置くような構図に変更する。\n\nご確認のほど、よろしくお願いいたします。\n</smtcmp_block>",
+      "id": "e27e0f88-1ccc-4bbb-9bbc-e22c421ea6aa",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.5-flash",
+          "model": "gemini-2.5-flash"
+        },
+        "usage": {
+          "prompt_tokens": 502,
+          "completion_tokens": 141,
+          "total_tokens": 990
+        }
+      }
+    }
+  ],
+  "createdAt": 1761908184024,
+  "updatedAt": 1761908184024,
+  "schemaVersion": 1
+}

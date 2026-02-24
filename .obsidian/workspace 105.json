@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c10dda66d64996d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ec2bc146c101ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1829344a041c7624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "超最強の年末を過ごす会(2).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "超最強の年末を過ごす会(2)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeccc7a7fb92a400",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf8705a8f7d48792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a352f64dde340f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9e6ad3e298181e88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "b6076712edfc6f8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d12b49cfa536b006",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c3894f62ede09c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140e43eebe07f28d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "超最強の年末を過ごす会(2).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "超最強の年末を過ごす会(2)へのバックリンク"
+            }
+          },
+          {
+            "id": "88c7c0fceb32bda6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "超最強の年末を過ごす会(2).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "超最強の年末を過ごす会(2)からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "92471853504c7807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "01fe2a6a2b40be27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "超最強の年末を過ごす会(2).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "超最強の年末を過ごす会(2)のアウトライン"
+            }
+          },
+          {
+            "id": "b5b4f48d221e00da",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "bases:Create new base": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-composer:Open smart composer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "markwhen:Create new Markwhen file": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1829344a041c7624",
+  "lastOpenFiles": [
+    "超最強の年末を過ごす会.md"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "new-line-trigger": "enter",
+  "show-checkboxes": true,
+  "link-date-to-daily-note": false,
+  "move-dates": true,
+  "date-format": "YYYY-MM-DD",
+  "date-display-format": "YYYY-MM-DD",
+  "show-relative-date": true
+}

@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"d93901bb8a92840d","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【冒頭】招待状が届く.md","x":-2080,"y":-860,"width":360,"height":500},
+		{"id":"421a47d7a4b9b668","type":"text","text":"# 時系列","x":-2080,"y":-1000,"width":2440,"height":80,"color":"1"},
+		{"id":"885208724bdfad50","type":"text","text":"# アイテム、プレイヤー情報","x":-2080,"y":-1660,"width":760,"height":90,"color":"4"},
+		{"id":"dbc2391b4886ab97","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/💡運命は結果じゃなくて過程.md","x":-810,"y":-1440,"width":356,"height":340},
+		{"id":"83fee0ae7d64dd4c","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/💡KPCとの親近感と失う苦しみ.md","x":-416,"y":-1440,"width":360,"height":340},
+		{"id":"86c5b249e5308053","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/🔧銀の鈴.md","x":-2080,"y":-1520,"width":360,"height":400},
+		{"id":"1dde62f47bc09567","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/🧍ハンドアウト.md","x":-1680,"y":-1520,"width":360,"height":250},
+		{"id":"c748166b414494b3","type":"text","text":"# キャラクター","x":-2720,"y":-1000,"width":400,"height":80,"color":"6"},
+		{"id":"00277c73a9dd715a","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/🐈️無もなき黒猫.md","x":-2720,"y":-860,"width":400,"height":540},
+		{"id":"8d3a2ca66000ba2a","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/🐈️バースト.md","x":-2720,"y":-260,"width":400,"height":300},
+		{"id":"da332952f6d54389","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/💡没入型シネマ.md","x":-810,"y":-1850,"width":356,"height":330},
+		{"id":"c103ccddeafcdd75","type":"text","text":"# アイディア","x":-810,"y":-2000,"width":1170,"height":80,"color":"3"},
+		{"id":"ea4be90137c7a8ce","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/💡アグサフェSS.md","x":-416,"y":-1850,"width":356,"height":330},
+		{"id":"0d67adb04766fa97","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/💡名前は「K」.md","x":-20,"y":-1850,"width":366,"height":330},
+		{"id":"944f6049fb0bc39e","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【ED】猫を拾う、空を見上げる.md","x":-20,"y":-860,"width":366,"height":280},
+		{"id":"57b45002e8ed142d","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【展開案】追え！あいつもこそ泥の仲間だ！.md","x":-1680,"y":-860,"width":360,"height":300},
+		{"id":"96a71eaa79832e4e","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【ED】世界を救う猫耳のこそ泥.md","x":-454,"y":-860,"width":360,"height":420},
+		{"id":"2349379dc9ae9e02","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md","x":-454,"y":-360,"width":360,"height":400},
+		{"id":"5a6f752dbfd01a9b","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【ED】次元の壁を「コスの印」で封印する.md","x":-20,"y":-120,"width":366,"height":360},
+		{"id":"a4712c13699ba99d","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/🐤ヒヨコの登場（ヌトセ・コス）.md","x":-2720,"y":120,"width":400,"height":480},
+		{"id":"5c8cbdc56ad2128e","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/🐈️NamelessCat構築用シート.md","x":-3280,"y":-860,"width":400,"height":900},
+		{"id":"540a2ef17bd6d8c5","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【展開案】時々バーストが現れて過去を見せる.md","x":-1280,"y":-860,"width":360,"height":500},
+		{"id":"21a813a53ab32c34","type":"file","file":"創作iDea/ナナシの黒猫(Nameless Cat)/【ED】我々を嘲笑う北極星を打ち倒す.md","x":-20,"y":-505,"width":366,"height":290},
+		{"id":"6c8badf669b778ea","type":"text","text":"「嫌われ者」になる理由を調べる必要がある","x":-3130,"y":90,"width":250,"height":90,"color":"2"}
+	],
+	"edges":[
+		{"id":"7e0cbc0338683f8f","fromNode":"00277c73a9dd715a","fromSide":"left","toNode":"5c8cbdc56ad2128e","toSide":"right","label":"PCへの動機"},
+		{"id":"c37d97187a9d2655","fromNode":"8d3a2ca66000ba2a","fromSide":"left","toNode":"6c8badf669b778ea","toSide":"right"}
+	]
+}

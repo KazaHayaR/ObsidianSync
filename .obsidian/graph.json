@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "path:創作iDea/金貨パクパク〜！  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:ED",
+      "color": {
+        "a": 1,
+        "rgb": 265877
+      }
+    },
+    {
+      "query": "file:冒頭",
+      "color": {
+        "a": 1,
+        "rgb": 3548807
+      }
+    },
+    {
+      "query": "file:🐈️",
+      "color": {
+        "a": 1,
+        "rgb": 13373247
+      }
+    },
+    {
+      "query": "file:💡",
+      "color": {
+        "a": 1,
+        "rgb": 5431459
+      }
+    },
+    {
+      "query": "file:展開案",
+      "color": {
+        "a": 1,
+        "rgb": 15041578
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.557894736842105,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.905601660912792,
+  "close": false
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"ec8e5b59e922202b","type":"text","text":"【CSV→Telop】\nシナリオテキストをTelop画像化","x":-460,"y":-25,"width":250,"height":85,"color":"3"},
+		{"id":"31d249bf0b26d1a1","type":"text","text":"ココフォリアのスクリーンパネルに\n連番順に画像を追加","x":-40,"y":-25,"width":250,"height":85,"color":"4"},
+		{"id":"3e53a521dcb6588a","type":"text","text":"【ConPNG⇔#】\nitems内から連番画像とハッシュ値の対応表を作る(Order?)","x":380,"y":-50,"width":250,"height":110,"color":"2"},
+		{"id":"685394dcf5b06a7c","type":"text","text":"【CoCat3】\nで仮部屋出力\njsonと対応表CSVから\n1. リーソスにハッシュ値を追加\n2. 01.02.の部分をハッシュ値に変更","x":760,"y":-229,"width":250,"height":247,"color":"6"},
+		{"id":"d4140056ebc748b7","type":"text","text":"イベントリスト\n","x":-430,"y":-254,"width":190,"height":50},
+		{"id":"327ab66218e981e4","type":"text","text":"ココフォリア部屋完成","x":1400,"y":-130,"width":250,"height":50},
+		{"id":"9fc5549712cff35c","type":"text","text":"シナリオ","x":-392,"y":-480,"width":115,"height":50},
+		{"id":"25cee9d291c45016","type":"text","text":"【Fixer】\nシーンテキストを削除","x":1120,"y":-148,"width":180,"height":85,"color":"3"},
+		{"id":"8d5973be1b2e9dd5","x":-140,"y":-259,"width":250,"height":60,"color":"5","type":"text","text":"【Sprit2K】\nイベントリストを分割"},
+		{"id":"839d92f7aed7f582","x":180,"y":-259,"width":250,"height":60,"color":"1","type":"text","text":"【Numbers2K】\nイベント番号をつける\n"}
+	],
+	"edges":[
+		{"id":"d0d71600b0e9e02a","fromNode":"31d249bf0b26d1a1","fromSide":"right","toNode":"3e53a521dcb6588a","toSide":"left","label":"エクスポート\n<json>"},
+		{"id":"2e7570c4e4b1661f","fromNode":"9fc5549712cff35c","fromSide":"bottom","toNode":"d4140056ebc748b7","toSide":"top","label":"気合\n<text>"},
+		{"id":"6db66d79c3253363","fromNode":"d4140056ebc748b7","fromSide":"bottom","toNode":"ec8e5b59e922202b","toSide":"top","label":"<text>"},
+		{"id":"ae64f857d34f21b6","fromNode":"ec8e5b59e922202b","fromSide":"right","toNode":"31d249bf0b26d1a1","toSide":"left","label":"気合\n<連番png>"},
+		{"id":"d75899f6ebc537a2","fromNode":"3e53a521dcb6588a","fromSide":"right","toNode":"685394dcf5b06a7c","toSide":"left","label":"対応表\nCsv"},
+		{"id":"ff7c42346da9d40f","fromNode":"685394dcf5b06a7c","fromSide":"right","toNode":"25cee9d291c45016","toSide":"left"},
+		{"id":"a5cae28714176859","fromNode":"25cee9d291c45016","fromSide":"right","toNode":"327ab66218e981e4","toSide":"left"},
+		{"id":"d36bd622eca94acc","fromNode":"d4140056ebc748b7","fromSide":"right","toNode":"8d5973be1b2e9dd5","toSide":"left"},
+		{"id":"2a3f98dc1f5ce97e","fromNode":"8d5973be1b2e9dd5","fromSide":"right","toNode":"839d92f7aed7f582","toSide":"left"},
+		{"id":"bb9f57c5c355251f","fromNode":"839d92f7aed7f582","fromSide":"right","toNode":"685394dcf5b06a7c","toSide":"left"}
+	]
+}

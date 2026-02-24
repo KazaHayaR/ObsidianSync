@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "bd10635fff2e0edd",
+    "type": "split",
+    "children": [
+      {
+        "id": "85095e78b1a62175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b0d6fb534b26ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📗読みたい本ストック.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📗読みたい本ストック"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8caa247681a9fc2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcd5b663e194897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ee52789f3c784bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "1e21146a4a1e9d19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "6501a18f46d8da03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41db325212721f18",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5b3023b56053606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91594ed2ac163e04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "無題のファイル 1へのバックリンク"
+            }
+          },
+          {
+            "id": "278744e676dab4d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "無題のファイル 1からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "65cd2b979990531c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "2dcd12a406e718ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "無題のファイル 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のファイル 1のアウトライン"
+            }
+          },
+          {
+            "id": "221c78de59808362",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "sheet-plus:Create excel file": false,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-composer:Open smart composer": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "46b0d6fb534b26ac",
+  "lastOpenFiles": [
+    "魔王/プロンプトを作ります.md",
+    "📗読みたい本ストック.md",
+    "無題のファイル.md",
+    "創作iDea/ユリイカ！！.md",
+    "創作iDea/学園モノ/学園モノのHO.md",
+    "創作iDea/学園モノ/学園アホストーリー.md",
+    "創作iDea/学園モノ/💡運動会システム.md",
+    "TPPGアイディア/💡ルルブチャットボット.md",
+    "TPPGアイディア/💡Aiを使ってKPを育てるアプリ.md",
+    "TPPGアイディア/七伏ファンボックスやりません？.md",
+    "DailyNote/2025/10/2025-10-31.md",
+    "DailyNote/2025/10/2025-10-16.md"
+  ]
+}

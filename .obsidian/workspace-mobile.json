@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "af67cca0bfb5ebb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0409fb6a4019b9db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e55627615c8339bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/コア.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "コア"
+            }
+          },
+          {
+            "id": "0157db6c1e1dee2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💡カステン/ショートを3日で作れるか.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ショートを3日で作れるか"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "847564be92188061",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "413e34f6a5fc3024",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "ファイルエクスプローラ"
+        }
+      },
+      {
+        "id": "9fbb4d39cb061ba0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "検索"
+        }
+      },
+      {
+        "id": "740738f6a454609d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "タグ"
+        }
+      },
+      {
+        "id": "e08c0f489c891265",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "c6754f57638a40c5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "すべてのプロパティ"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "741e3469b87954be",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8be5e2f3a87b36d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "💪筋トレ用URL.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "バックリンク"
+        }
+      },
+      {
+        "id": "48122fb4bd84f793",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "a4267e5fe685256a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "4b84bf52ad1a7bdd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "smart-composer:Open smart composer": false,
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e55627615c8339bc",
+  "lastOpenFiles": [
+    "Projects/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/校正用Template.md",
+    "Projects/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/第一章プロット.md",
+    "Projects/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/未整理メモ.md",
+    "Projects/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/4-1 遠き日.md",
+    "Projects/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/3-3 東砦の黒鎧.md",
+    "DailyNote/2026/02/2026-02-19.md",
+    "献立/🍳2月献立リスト.md",
+    "💡カステン/ショートを3日で作れるか.md",
+    "無題のファイル 1.md",
+    "💡カステン",
+    "💪筋トレ用URL.md",
+    "DailyNote/2026/02/2026-02-16.md",
+    "WorkShot/ななふし図書館アーカイブチェック項目 2.md",
+    "TRPG/イノリの謳 - the Beyond the world -.md",
+    "献立/🍳献立リスト.md",
+    "その他/z_アーカイブ/大罪2/スクリーンショット 2025-12-10 224245 1.png",
+    "その他/z_アーカイブ/大罪2/🍰マリー【イラスト】.md",
+    "その他/z_アーカイブ/大罪2/スクリーンショット 2025-12-10 224245.png",
+    "その他/z_アーカイブ/大罪2/大罪イラストキャンバス.canvas",
+    "その他/z_アーカイブ/大罪2/character01.png",
+    "その他/z_アーカイブ/大罪2/character07.png",
+    "その他/z_アーカイブ/大罪2/Pasted image 20251210224303.png",
+    "その他/z_アーカイブ/大罪2",
+    "DailyNote/2026/02/2026-02-10.md",
+    "無題のファイル.md",
+    "シナリオ/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/3-2 騎士団.md",
+    "シナリオ/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/4-1 冬吠え.md",
+    "シナリオ/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/3-3 東砦の黒鎧.md",
+    "シナリオ/世界最強の自称鍛治師、自分が救った世界でまったり無双紀行 〜勘違い錬金術師、ゆるふわ魔王と旅に出る〜/3-2",
+    "TRPG/終末世界へようこそ！.md",
+    "🍳献立リスト.md",
+    "ツインレイ.md",
+    "終末世界へようこそ！.md",
+    "その他/💡ボイロ動画自動化Picat.md",
+    "WorkShot/【勤務前、失敗したな、の時に見る】.md",
+    "無題のファイル.canvas",
+    "Projects/大罪2/大罪イラストキャンバス.canvas",
+    "魔王",
+    "シナリオ",
+    "DailyNote/その他/87981869_p0.png",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/🗺️金貨パクパク.canvas",
+    "note",
+    "書庫",
+    "Canvas/TestCanv.canvas",
+    "アイディア/無題のフォルダ",
+    "アイディア",
+    "アイディアs"
+  ]
+}

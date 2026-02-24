@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "bbe14528dd270ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5020b457468160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4dc705e37074f6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "viewState": {
+                  "x": 953.4914660666889,
+                  "y": -130.24215583912863,
+                  "zoom": -0.25426605264238444
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CoCatフロー"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "49c9a1d412e174ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2007dd2af4868db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a351fb86f000dc04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9f9b9553ee72e523",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "6394db75a96681a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c176dd3dbc967c9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d6e7b25c9d5aba0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e558b35db11d341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CoCatフローへのバックリンク"
+            }
+          },
+          {
+            "id": "05a0cb24e89b0e8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CoCatフローからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "77a6d85299f997dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "781087a267b67765",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "1173b78a65b7dcfe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CoCatフローのアウトライン"
+            }
+          },
+          {
+            "id": "671004bf1db5005a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "smart-composer:Open smart composer": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "5f4dc705e37074f6",
+  "lastOpenFiles": [
+    "z_アーカイブ/大罪2/🍰マリー【イラスト】.md",
+    "z_アーカイブ/大罪2",
+    "WorkShot/KADカンバン.md",
+    "WorkShot/CoCatフロー.canvas",
+    "書庫/プライミングについて.md",
+    "アーカイブ/大罪2/大罪イラストキャンバス.canvas",
+    "アーカイブ/大罪2/🍰マリー【イラスト】.md",
+    "アーカイブ/大罪2/スクリーンショット 2025-12-10 224245.png",
+    "アーカイブ/大罪2/Pasted image 20251210224303.png",
+    "アーカイブ/大罪2/スクリーンショット 2025-12-10 224245 1.png",
+    "アーカイブ/大罪2/character07.png",
+    "アーカイブ/大罪2/character01.png",
+    "アーカイブ/【実行中】8月のご飯計画.md",
+    "アーカイブ/田中のロゴ.md",
+    "アーカイブ/大罪2",
+    "アーカイブ/個室会食の予算です.md",
+    "アーカイブ/七月第一週ふりかえり.md",
+    "アーカイブ/【実行中】1ヶ月体質改善.md",
+    "アーカイブ/8月購入物リスト.md",
+    "アーカイブ",
+    "z_アーカイブ/田中のロゴ.md",
+    "z_アーカイブ/個室会食の予算です.md",
+    "z_アーカイブ/七月第一週ふりかえり.md",
+    "z_アーカイブ/【実行中】1ヶ月体質改善.md",
+    "z_アーカイブ/【実行中】8月のご飯計画.md",
+    "z_アーカイブ/8月購入物リスト.md",
+    "z_アーカイブ",
+    "献立/🍳2月献立リスト.md"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "2027c112e4c49687",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c81095bbc98e202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "908958a5988ce95c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TRPG/ツインレイ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ツインレイ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01f011c8c5eb37e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b1f2de90897665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99897b0e344ffab0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "ff18d943a3a5f7c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "b7cbae17cbc780a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8f52d416d014961e",
+    "type": "split",
+    "children": [
+      {
+        "id": "06e6bbeedb20d5ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44ebab13cf2e6781",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TRPG/ツインレイ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ツインレイへのバックリンク"
+            }
+          },
+          {
+            "id": "1bed9a1092c52de0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TRPG/ツインレイ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "ツインレイからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "4ecb88f080acbac7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "12833de292684eaf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "7049c30c771d1658",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TRPG/ツインレイ.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "ツインレイのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "908958a5988ce95c",
+  "lastOpenFiles": [
+    "TRPG/イノリの謳 - the Beyond the world - 2.md",
+    "TRPG/キャラ/背火 王華（せひ おうか）.md",
+    "💪筋トレ用URL.md",
+    "📗読みたい本ストック.md",
+    "0c0d80e888a7cdd63c445e881b80d96d.jpg",
+    "TRPG/イノリの謳 - the Beyond the world -(1).md"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "6b46b6b9decf8865",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3ce8657e4d6a39d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad679a8f32a38411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "その他/【実行中】8月のご飯計画.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【実行中】8月のご飯計画"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc69d7ebe9f81825",
+    "type": "split",
+    "children": [
+      {
+        "id": "593969fd4165167b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6574c894c265b51b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "29a6dedee571ad76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "d8db74c93bc03ad9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71083a49a31ffd94",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f98f5cf55490fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b0677abaddbd666",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "その他/【実行中】8月のご飯計画.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【実行中】8月のご飯計画へのバックリンク"
+            }
+          },
+          {
+            "id": "2a89978ca9751643",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "その他/【実行中】8月のご飯計画.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【実行中】8月のご飯計画からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "415e3046f48d0d8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "819ac63c3f5784b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "その他/【実行中】8月のご飯計画.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【実行中】8月のご飯計画のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "sheet-plus:Create excel file": false
+    }
+  },
+  "active": "ad679a8f32a38411",
+  "lastOpenFiles": [
+    "その他/【実行中】1ヶ月体質改善.md",
+    "その他/【実行中】8月のご飯計画.md",
+    "その他/8月購入物リスト.md",
+    "その他/七月第一週ふりかえり.md",
+    "その他/個室会食の予算です.md",
+    "その他/ボイラ動画自動化Picat.md",
+    "その他/企画に対して行動経済学のバイアス、ナッジの要素をつける.md"
+  ]
+}

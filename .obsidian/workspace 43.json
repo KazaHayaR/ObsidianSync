@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "e8568f1738cef826",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfea1f55708ab4b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad2c1ee9876cb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "創作iDea/ナナシの黒猫(Nameless Cat)/🐈️無もなき黒猫.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🐈️無もなき黒猫"
+            }
+          },
+          {
+            "id": "e311ec3c754f86e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TPPGアイディア/💡Aiを使ってKPを育てるアプリ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💡Aiを使ってKPを育てるアプリ"
+            }
+          },
+          {
+            "id": "f3466e4e3697cc14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TPPGアイディア/公式でクリーチャーのコマ情報をココフォリアコピーできる.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公式でクリーチャーのコマ情報をココフォリアコピーできる"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11250d48b06b4eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9229fb3cee16436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7b7f3c1b3f70c1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "79987f21fa9c9cc8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "88fe1efe89e9d79d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2949d60bd2807f9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1992b4b9e6149e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36bff34c869b2d0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DailyNote/2025/09/KVデザイン用.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "KVデザイン用へのバックリンク"
+            }
+          },
+          {
+            "id": "042560d273ac4e63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DailyNote/2025/09/KVデザイン用.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "KVデザイン用からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "e957f4fb826f7e31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "52dcb178ac4b5311",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DailyNote/2025/09/KVデザイン用.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "KVデザイン用のアウトライン"
+            }
+          },
+          {
+            "id": "0e3121736c0c2f60",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "sheet-plus:Create excel file": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "f3466e4e3697cc14",
+  "lastOpenFiles": [
+    "TPPGアイディア/💡Aiを使ってKPを育てるアプリ.md",
+    "TPPGアイディア/公式でクリーチャーのコマ情報をココフォリアコピーできる.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/🐈️無もなき黒猫.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【プロット】.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【プロットS】.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【プロット】 - コピー.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【展開案】時々バーストが現れて過去を見せる.md",
+    "その他/田中のロゴ.md",
+    "書庫/セレファイス.md",
+    "その他/最強のピザを作ろう計画.md",
+    "その他/Aiを作って一日一章話を作る物語構築.md",
+    "DailyNote/その他/87981869_p0.png",
+    "DailyNote/その他/102808861_p0 (1).png",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【冒頭】招待状が届く.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【展開案】追え！あいつもこそ泥の仲間だ！.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】我々を嘲笑う北極星を打ち倒す.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/🐈️バースト.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/🐈️NamelessCat構築用シート.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】猫を拾う、空を見上げる.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】mon panache!(シラノ).md",
+    "DailyNote/2025/09/KVデザイン用.canvas",
+    "WodkShot/【勤務前、失敗したな、の時に見る】.md",
+    "TPPGアイディア/七伏ファンボックスやりません？.md",
+    "その他/企画に対して行動経済学のバイアス、ナッジの要素をつける.md",
+    "書庫/なぜ私たちは燃え尽きてしまうのか.md",
+    "TPPGアイディア/けだもののわかりにくい点.md",
+    "TPPGアイディア/Yostarの人とクトゥルフやりたいよって話つけてきたよ.md",
+    "DailyNote/その他/103831317_p0.jpg"
+  ]
+}

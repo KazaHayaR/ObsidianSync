@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "a8f55cd197a60e27",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c93c9821adb021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff0fb7114838841c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNote/2026/01/2026-01-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52332e281e2d077f",
+    "type": "split",
+    "children": [
+      {
+        "id": "22eeaa522e504943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e450ff9a19e74f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "cceccd3c411760fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "efd7fee9835be028",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "e270725e0fbd3894",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aead389b180ab98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f712a680e16af01d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "CoCatフローへのバックリンク"
+            }
+          },
+          {
+            "id": "c04c8f2e3fa28bc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "CoCatフローからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "d1bf50badd998638",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "53232fdb3b2816ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkShot/CoCatフロー.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CoCatフローのアウトライン"
+            }
+          },
+          {
+            "id": "5362cb50c07ccecf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "bases:Create new base": false,
+      "obsidian-memos:Thino": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "smart-composer:Open smart composer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "markwhen:Create new Markwhen file": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ff0fb7114838841c",
+  "lastOpenFiles": [
+    "WorkShot/CoCatフロー.canvas",
+    "WorkShot/テストプレイ用の注意事項.md",
+    "WorkShot/シナリオ新企画について.md",
+    "WorkShot/シナリオのチェック項目.md",
+    "WorkShot/KADカンバン.md",
+    "WorkShot/クトゥルフシナリオパス.md",
+    "WorkShot/ななふし図書館アーカイブチェック項目.md",
+    "WorkShot/プロンプト.md",
+    "TPPGアイディア/💡Aiを使ってKPを育てるアプリ.md",
+    "Tempates/WeeklyTemplate.md",
+    "Tempates/文章作成呪文Template.md",
+    "その他/9.21(日曜日)(1).md",
+    "その他/最強のピザを作ろう計画.md"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "77b623d1e775ef89",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3e3acbf4b06b094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e91dd3221803322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "創作iDea/学園モノ/💡運動会システム.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💡運動会システム"
+            }
+          },
+          {
+            "id": "956ec363bee40426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNote/その他/観世さんアンケート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "観世さんアンケート"
+            }
+          },
+          {
+            "id": "5312d0c450ad4786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10ー4献立.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10ー4献立"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9df65c882c7857c",
+    "type": "split",
+    "children": [
+      {
+        "id": "287cd38432e66832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ffe3759ef9f1718",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "ed0998685de3dbfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "651e57099cddafc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c46a440e0b3b5237",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e7039edffc591f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04092ca4bfd938c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10ー4献立.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "10ー4献立へのバックリンク"
+            }
+          },
+          {
+            "id": "6d65d27c7411a5ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10ー4献立.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "10ー4献立からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "4690f7fc5a858c8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "c9ca04be4d5eda3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10ー4献立.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "10ー4献立のアウトライン"
+            }
+          },
+          {
+            "id": "22858d2fe7d1ff5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false,
+      "sheet-plus:Create excel file": false,
+      "obsidian-memos:Thino": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "5312d0c450ad4786",
+  "lastOpenFiles": [
+    "DailyNote/その他/観世さんアンケート.md",
+    "10ー4献立.md",
+    "DailyNote/その他/綾部さんkpレス.md",
+    "DailyNote/その他/まとめ.md",
+    "DailyNote/その他/87981869_p0.png",
+    "WodkShot/【勤務前、失敗したな、の時に見る】.md",
+    "その他/最強のピザを作ろう計画.md",
+    "Tempates/💡iDea.md",
+    "TPPGアイディア/💡ルルブチャットボット.md",
+    "TPPGアイディア/💡Aiを使ってKPを育てるアプリ.md",
+    "創作iDea/ナナシの黒猫(Nameless Cat)/【ED】猫を拾う、空を見上げる.md",
+    "アーカイブ/【実行中】8月のご飯計画.md",
+    "その他/企画に対して行動経済学のバイアス、ナッジの要素をつける.md",
+    "その他/プロファイリングをするぞ.md",
+    "創作iDea/学園モノ/学園アホストーリー.md",
+    "創作iDea/学園モノ/💡運動会システム.md",
+    "創作iDea/学園モノ/学園モノのHO.md",
+    "その他/💡Aiを作って一日一章話を作る物語構築.md",
+    "その他/💡エンタメ業界の決算報告書を俯瞰するnootbooklm.md",
+    "その他/💡ボイロ動画自動化Picat.md",
+    "その他/9.21(日曜日)(1).md",
+    "その他/ChatGPTの使用効率化メモ.md",
+    "その他/ウインドウ管理のオートメーション方針.md"
+  ]
+}
